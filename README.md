@@ -12,10 +12,12 @@ A simple calculator application built using HTML, CSS, and JavaScript. This proj
 ## Screenshots
 
 ### Light Mode
-![Light Mode](path/to/light-mode-screenshot.png)
+
+![Screenshot 2024-01-15 170244](https://github.com/user-attachments/assets/71c3ce59-eb93-4775-8220-1ba549a4b284)
 
 ### Dark Mode
-![Dark Mode](path/to/dark-mode-screenshot.png)
+
+![Screenshot 2024-08-06 145753](https://github.com/user-attachments/assets/dafc1983-7fea-47fe-818c-87b01f2e3abb)
 
 ## Technologies Used
 
